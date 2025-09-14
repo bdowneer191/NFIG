@@ -1,0 +1,5 @@
+{
+  "name": "News Feature Image Generator",
+  "description": "An AI-powered tool to generate news feature images from Google Sheets data. Provide a published Google Sheet URL with topic sentences and instructions, and the application will generate relevant, high-quality images for each entry.",
+  "requestFramePermissions": []
+}
